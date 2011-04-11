@@ -1,0 +1,6 @@
+export(MethIll,  plot.MethIll,  print.MethIll,  summary.MethIll)
+export(NAProbes, plot.NAProbes, print.NAProbes, summary.NAProbes)
+export(screenBTrait, plot.screenBTrait, print.screenBTrait, summary.screenBTrait)
+export(ComBat, plot.ComBat)
+export(MLStack, MLearnExp, confuMat2, print.MLearnExp)
+export(expDesign, paste2)
